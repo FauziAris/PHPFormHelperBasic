@@ -1,5 +1,5 @@
 <?php
-//penulis
+
 function set_value($name, $value = null)
 {
     $v= null;
